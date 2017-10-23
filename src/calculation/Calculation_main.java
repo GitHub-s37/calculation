@@ -10,7 +10,6 @@ public class Calculation_main {
 	System.out.print("Input Number m > ");
 	int m = Integer.parseInt(scan.next());
 	
-	
 	System.out.print("Input Number n > ");
 	int n = Integer.parseInt(scan.next());
 	
